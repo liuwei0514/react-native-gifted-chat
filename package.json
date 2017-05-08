@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaridSafi/react-native-gifted-chat.git"
+    "url": "git+https://github.com/liuwei0514/react-native-gifted-chat.git"
   },
   "keywords": [
     "android",
@@ -20,9 +20,9 @@
   "author": "Farid Safi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FaridSafi/react-native-gifted-chat/issues"
+    "url": "https://github.com/liuwei0514/react-native-gifted-chat/issues"
   },
-  "homepage": "https://github.com/FaridSafi/react-native-gifted-chat#readme",
+  "homepage": "https://github.com/liuwei0514/react-native-gifted-chat#readme",
   "scripts": {
     "lint": "eslint . --ext .js,.jsx"
   },
